@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e2be416-71f3-4603-b35c-fe2a85e3d33f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SaveDealsThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/SaveDealsThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SaveOrdersThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/SaveOrdersThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SaveInstrumentThread.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/SaveInstrumentThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="F:/Books/JAVA/SPRING/Pro_Spring_5_5th_Edition/pro-spring-5-master/chapter03/bean-autowiring" value="PREVIEW" />
+        <entry key="F:/Books/JAVA/SPRING/Pro_Spring_5_5th_Edition/pro-spring-5-master/chapter03/collections" value="PREVIEW" />
+        <entry key="F:/Books/JAVA/SPRING/Pro_Spring_5_5th_Edition/pro-spring-5-master/chapter03/method-injection" value="PREVIEW" />
+        <entry key="F:/Books/JAVA/SPRING/Pro_Spring_5_5th_Edition/pro-spring-5-master/chapter03/method-replacement" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/rabbit/consumer/OrdersConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/deals/ThreadDealsThird.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/rabbit/consumer/DealsConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/InstrumentService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/InstrumentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/rabbit/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/rabbit/config/AppContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/rabbit/consumer/InstrumentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/rabbit/config/ExecutorServiceConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/rabbit/config/ConcurrencyConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/rabbit/consumer/InstrumentsConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/trhreads/InstrumentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/InstrumentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/InstrumentSaveThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/saveInstrumentThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/orders/OrderRepo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/instruments/ThreadFirstInstrument.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/domain_model/Deals.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/util/MakeJsonDirectories.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/ExportJson.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/SaveOrdersThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/SaveInstrumentThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/ShutdownExecutorServiceThreads.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/config/RabbitConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/domain_model/Instruments.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/util/SyncJsonWithDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/config/DateConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/domain_model/Orders.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/FortsbackofficeApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/util/MakeJsonDirectoriesImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/config/ConcurrencyConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/orders/OrdersDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/orders/OrdersDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/instruments/InstrumentDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/instruments/InstrumentDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/instruments/InstrumentRepo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/orders/OrdersRepo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/deals/DealsDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/deals/DealsDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/deals/DealsRepo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/consumer/DealsConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/consumer/InstrumentsConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/consumer/OrdersConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/ExportJsonImplThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/SaveDeals.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/SaveDealsThread.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FORTSBackOfficeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FORTS_BackOffice_Micro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FORTSBackOfficeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FORTS_BackOffice_Micro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FORTSBackOfficeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FORTS_BackOffice_Micro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FORTSBackOfficeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FORTS_BackOffice_Micro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FORTSBackOfficeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FORTS_BackOffice_Micro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FORTSBackOfficeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FORTS_BackOffice_Micro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kz" type="462c0819:PsiDirectoryNode" />
+              <item name="roma" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FORTSBackOfficeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FORTS_BackOffice_Micro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kz" type="462c0819:PsiDirectoryNode" />
+              <item name="roma" type="462c0819:PsiDirectoryNode" />
+              <item name="fortsbackoffice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FORTSBackOfficeMicro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FORTS_BackOffice_Micro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="kz.roma.fortsbackoffice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="FortsbackofficeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kz.roma.fortsbackoffice.FortsbackofficeApplication" />
+      <module name="FORTS_BackOffice_Micro" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e2be416-71f3-4603-b35c-fe2a85e3d33f" name="Default" comment="" />
+      <created>1625223474012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625223474012</updated>
+      <workItem from="1625223475416" duration="4565000" />
+      <workItem from="1625230483777" duration="532000" />
+      <workItem from="1625288987962" duration="4946000" />
+      <workItem from="1625633351733" duration="727000" />
+      <workItem from="1625637155238" duration="5854000" />
+      <workItem from="1625715309401" duration="59000" />
+      <workItem from="1625715615854" duration="12101000" />
+      <workItem from="1625744337676" duration="6000" />
+      <workItem from="1625802789397" duration="1262000" />
+      <workItem from="1625804284649" duration="1017000" />
+      <workItem from="1625806676440" duration="4394000" />
+      <workItem from="1626062156301" duration="9034000" />
+      <workItem from="1626149501191" duration="14279000" />
+      <workItem from="1626165963829" duration="560000" />
+      <workItem from="1626237111951" duration="4635000" />
+      <workItem from="1626258125936" duration="1157000" />
+      <workItem from="1626259297236" duration="497000" />
+      <workItem from="1626260620839" duration="32000" />
+      <workItem from="1626323720084" duration="11948000" />
+      <workItem from="1626413485300" duration="5001000" />
+      <workItem from="1626439113945" duration="612000" />
+      <workItem from="1626668312840" duration="939000" />
+      <workItem from="1626670530527" duration="1497000" />
+      <workItem from="1626673792716" duration="1164000" />
+      <workItem from="1626688972254" duration="76000" />
+      <workItem from="1626689684645" duration="4309000" />
+      <workItem from="1626842174721" duration="186000" />
+      <workItem from="1626857199143" duration="284000" />
+      <workItem from="1626857867614" duration="362000" />
+      <workItem from="1626859344412" duration="77000" />
+      <workItem from="1626865747359" duration="376000" />
+      <workItem from="1626871309173" duration="598000" />
+      <workItem from="1626926251959" duration="594000" />
+      <workItem from="1626930484641" duration="543000" />
+      <workItem from="1626934111320" duration="54000" />
+      <workItem from="1626934486503" duration="622000" />
+      <workItem from="1626940685414" duration="11000" />
+      <workItem from="1626940824418" duration="15000" />
+      <workItem from="1626941977384" duration="1000" />
+      <workItem from="1626947694171" duration="745000" />
+      <workItem from="1627014598952" duration="1007000" />
+      <workItem from="1627020683696" duration="14000" />
+      <workItem from="1627270722756" duration="4483000" />
+      <workItem from="1627277580818" duration="1378000" />
+      <workItem from="1627282874827" duration="8662000" />
+      <workItem from="1627302140105" duration="22000" />
+      <workItem from="1627303007229" duration="784000" />
+      <workItem from="1627633374547" duration="1308000" />
+      <workItem from="1627986586048" duration="3790000" />
+      <workItem from="1627993040468" duration="10000" />
+      <workItem from="1628055710919" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="117169000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2652174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.034648187" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18586956" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30810234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33586955" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.034648187" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21304348" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2652174" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29347825" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20202559" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/ExportJsonImplThread.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/ExportJsonImplThread.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/ExportJsonImplThread.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="45" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.3.9/spring-rabbit-2.3.9.jar!/org/springframework/amqp/rabbit/listener/adapter/HandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.3.9/spring-rabbit-2.3.9.jar!/org/springframework/amqp/rabbit/listener/adapter/MessagingMessageListenerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="158" column="0" lean-forward="false" selection-start-line="158" selection-start-column="0" selection-end-line="158" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Export to JSON/Orders in JSON/Orders_13.07.2021/JSON_Orders_13.07.2021.json" />
+    <entry file="file://$PROJECT_DIR$/Export to JSON/Instruments in JSON/Instruments_13.07.2021/JSON_Instruments_13.07.2021.json" />
+    <entry file="file://$PROJECT_DIR$/Export to JSON/Deals in JSON/Deals_13.07.2021/JSON_Deals_13.07.2021.json" />
+    <entry file="file://$PROJECT_DIR$/Export to JSON/Deals in JSON/Deals_14.07.2021/JSON_Deals_14.07.2021.json" />
+    <entry file="file://$PROJECT_DIR$/Export to JSON/Instruments in JSON/Instruments_14.07.2021/JSON_Instruments_14.07.2021.json" />
+    <entry file="file://$PROJECT_DIR$/Export to JSON/Orders in JSON/Orders_14.07.2021/JSON_Orders_14.07.2021.json" />
+    <entry file="file://$PROJECT_DIR$/logs/rabbit-logger-@version@.log" />
+    <entry file="file://$PROJECT_DIR$/logs/serviceThread-logger-@version@.log" />
+    <entry file="file://$PROJECT_DIR$/logs/spring-boot-logger-@version@.log" />
+    <entry file="file://$PROJECT_DIR$/logs/rabbit-logger.log" />
+    <entry file="file://$PROJECT_DIR$/logs/serviceThread-logger.log" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="55" column="44" lean-forward="false" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Export to JSON/Deals in JSON/Deals_15.07.2021/JSON_Deals_15.07.2021.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Export to JSON/Orders in JSON/Orders_15.07.2021/JSON_Orders_15.07.2021.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Export to JSON/Instruments in JSON/Instruments_15.07.2021/JSON_Instruments_15.07.2021.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/service-threads-logger.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="148" lean-forward="false" selection-start-line="0" selection-start-column="148" selection-end-line="0" selection-end-column="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/spring-boot-logger.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="135" lean-forward="false" selection-start-line="10" selection-start-column="135" selection-end-line="10" selection-end-column="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/rabbit-endpoint-logger.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/util/SyncJsonWithDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="55" column="105" lean-forward="false" selection-start-line="55" selection-start-column="105" selection-end-line="55" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="21" lean-forward="false" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/FortsbackofficeApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/domain_model/Instruments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="33" column="110" lean-forward="false" selection-start-line="33" selection-start-column="110" selection-end-line="33" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/domain_model/Orders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-595">
+          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/util/MakeJsonDirectories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/util/MakeJsonDirectoriesImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/config/ConcurrencyConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/config/DateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="45" lean-forward="false" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/config/RabbitConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="34" column="38" lean-forward="false" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/instruments/InstrumentRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/instruments/InstrumentDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/instruments/InstrumentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/orders/OrdersDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/orders/OrdersDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/orders/OrdersRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/deals/DealsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/deals/DealsDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/dao/deals/DealsRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/domain_model/Deals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/consumer/DealsConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/consumer/InstrumentsConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/consumer/OrdersConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/ExportJsonImplThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/SaveDeals.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/ExportJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/ShutdownExecutorServiceThreads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/SaveDealsThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/SaveOrdersThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/roma/fortsbackoffice/service/threads/SaveInstrumentThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FORTS_BackOffice_Micro</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

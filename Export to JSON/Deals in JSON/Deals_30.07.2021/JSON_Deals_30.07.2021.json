@@ -1,0 +1,38 @@
+[
+  {
+    "id": 20,
+    "dealNum": 1985287755709551295,
+    "orderIdBuy": 1985287755709570961,
+    "orderIdSell": 0,
+    "rowId": 5495034173,
+    "dealIsin": 851857,
+    "dealQnt": 1,
+    "dealPrice": 1831.80,
+    "dealsDate": "2021/07/30 11:43:18",
+    "noSystemDeal": 0,
+    "buyerDealStatus": 2199023255553,
+    "sellerDealStatus": 0,
+    "buyerCode": "FZFA002",
+    "sellerCode": "",
+    "buyerCompanyCode": "ETRADE",
+    "sellerCompanyCode": ""
+  },
+  {
+    "id": 0,
+    "dealNum": 1985287755709551296,
+    "orderIdBuy": 1985287755709570969,
+    "orderIdSell": 0,
+    "rowId": 5495036381,
+    "dealIsin": 851857,
+    "dealQnt": 1,
+    "dealPrice": 1831.80,
+    "dealsDate": "2021/07/30 11:43:47",
+    "noSystemDeal": 0,
+    "buyerDealStatus": 2199023255553,
+    "sellerDealStatus": 0,
+    "buyerCode": "FZFA003",
+    "sellerCode": "",
+    "buyerCompanyCode": "ETRADE",
+    "sellerCompanyCode": ""
+  }
+]
