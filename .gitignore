@@ -6,3 +6,6 @@
 
 # Package files 
 *.jar
+
+# JSON files 
+*.json
